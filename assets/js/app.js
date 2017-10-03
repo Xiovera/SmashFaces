@@ -74,10 +74,10 @@ $(function(){
 		$(this).parent().next().show();
 	
 		if(sede === "peru"){
-			mostrarFotos(sede, contenedorImg, peru);
+			mostrarFotos(sede, contenedorImg, per);
 			indices= [];
 		}else{
-			mostrarFotos(sede, contenedorImg, mexico);
+			mostrarFotos(sede, contenedorImg, mex);
 			indices= [];
 		}
 	});
