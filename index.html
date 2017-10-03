@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smash Faces</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Rokkitt" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+  </head>
+  <body>
+    <header class="container">
+      <div class="row">
+        <h1>Smash Faces</h1>
+        <hr>
+        <p>Bienvenidas al juego de Smash Faces, tu mision es poder identificar a todas tus compañeras de clase, ingresando para ello su nombre.Tienes 5 oportunidades antes de perder un punto y pasar a la siguiente.</p>
+      </div>      
+    </header>
+    <section class="container">
+      <div  class="row pv-2">
+        <label>Elige tu Sede:</label>
+        <select>
+          <option hidden="" >Sede</option>
+          <option value="peru">Peru</option>
+          <option value="mexico">Mexico</option>
+        </select>
+        <label class="right">Puntos: <span id="puntaje">0</span> puntos</label>
+      </div>
+      <div class="row height-300">
+        <div class="container-img col-xs-12 col-sm-4"><img src=""></div>
+        <div class="container-juego col-xs-12 col-sm-8">
+          <p>Ingresa su nombre:</p>
+          <form class="text-center">
+            <input type="text" placeholder="NOMBRE">
+            <button>COMPROBAR</button>
+          </form>           
+          <p class="mensaje text-center"></p>
+        </div>
+      </div>
+    </section>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="assets/js/mexico.js"></script>
+    <script type="text/javascript" src="assets/js/peru.js"></script>
+    <script type="text/javascript" src="assets/js/app.js"></script>
+  </body>
+</html>
