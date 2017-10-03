@@ -20,25 +20,25 @@ var peru =  [{
               image: "Diana Santisteban.JPG",
               name: "Diana"  
             },{
-              image: "Emily Elena Vivanco.JPG",
+              image: "Emily Elena Vivanco.jpg",
               name: "Emily"  
             },{
-              image: "Gabriela Segura.JPG",
+              image: "Gabriela Segura.jpg",
               name: "Gabriela"  
             },{
-              image: "Ingrid Dariana Patiño.JPG",
+              image: "Ingrid Dariana Patiño.jpg",
               name: "Ingrid"  
             },{
-              image: "Jackeline Ferro.JPG",
+              image: "Jackeline Ferro.jpg",
               name: "Jackeline"  
             },{
-              image: "Karina Prado.JPG",
+              image: "Karina Prado.jpg",
               name: "Karina"  
             },{
               image: "Lizeth Lopez.JPG",
               name: "Lizeth"  
             ,{
-              image: "Magaly Flores.JPG",
+              image: "Magaly Flores.jpg",
               name: "Magaly"  
             },{
               image: "Pierina Acevedo.JPG",
@@ -47,13 +47,13 @@ var peru =  [{
               image: "Reina Torrejón.JPG",
               name: "Reina"  
             },{
-              image: "Rita Ortiz.JPG",
+              image: "Rita Ortiz.jpg",
               name: "Rita"  
             },{
               image: "Sara Nolasco.JPG",
               name: "Sara"  
             },{
-              image: "Vanessa Alvarado.JPG",
+              image: "Vanessa Alvarado.jpg",
               name: "Lizeth"  
             },{
               image: "Winy Concha.JPG",
