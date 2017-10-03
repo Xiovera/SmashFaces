@@ -58,13 +58,10 @@ $(function(){
 						nombre.val("");
 					},2000);					
 					
-					puntaje.text(eval(puntaje.text())-1);;
-				}
-							
+					puntaje.text(eval(puntaje.text())-1);
+				}							
 			}
-
 		});
-
 	};
 
 	var contenedorImg = $("img");
