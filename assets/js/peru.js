@@ -58,4 +58,4 @@ var peru =  [{
             },{
               image: "Winy Concha.JPG",
               name: "Winy"  
-            }
+            }];
