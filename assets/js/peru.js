@@ -37,7 +37,7 @@ var peru =  [{
             },{
               image: "Lizeth Lopez.JPG",
               name: "Lizeth"  
-            ,{
+            },{
               image: "Magaly Flores.jpg",
               name: "Magaly"  
             },{
