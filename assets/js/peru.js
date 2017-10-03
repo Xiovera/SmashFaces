@@ -54,7 +54,7 @@ var peru =  [{
               name: "Sara"  
             },{
               image: "Vanessa Alvarado.jpg",
-              name: "Lizeth"  
+              name: "Vanessa"  
             },{
               image: "Winy Concha.JPG",
               name: "Winy"  
